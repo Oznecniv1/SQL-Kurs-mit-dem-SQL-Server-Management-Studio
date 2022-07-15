@@ -1,0 +1,2 @@
+Die Tabelle BuchAutor soll ohne die Kenntnis der IDs der Buecher und Autoren gefüllt werden.
+Das geschieht mittels zwei Subselects und der Angabe von Titel und Namen/Vornamen des Autors.
